@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Insight Podcast</title>
+    <description>Weekly digest of curated articles and videos</description>
+    <language>en-us</language>
+    <link>https://midtownninja.github.io/insight-podcast</link>
+    <itunes:author>Insight Podcast</itunes:author>
+    <itunes:summary>Weekly digest of curated articles and videos</itunes:summary>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:category text="Technology" />
+    <item>
+      <title>Week of January 19, 2026</title>
+      <description>Weekly digest with 2 sources.</description>
+      <pubDate>Mon, 19 Jan 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">insight-episode-3</guid>
+      <enclosure url="https://insight-podcast-vishy.s3.amazonaws.com/episodes/2026-01-19/episode-1.mp3" length="27394939" type="audio/mpeg" />
+      <itunes:duration>13:45</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Weekly digest with 2 sources.</itunes:summary>
+    </item>
+  </channel>
+</rss>
