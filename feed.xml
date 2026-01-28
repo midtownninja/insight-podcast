@@ -10,7 +10,7 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:owner>
-      <itunes:email>podcast@example.com</itunes:email>
+      <itunes:email>vishy.v@gmail.com</itunes:email>
       <itunes:name>Insight Podcast</itunes:name>
     </itunes:owner>
     <image>
@@ -19,7 +19,7 @@
       <link>https://midtownninja.github.io/insight-podcast</link>
     </image>
     <itunes:image href="https://midtownninja.github.io/insight-podcast/artwork.png" />
-    <itunes:category text="Technology" />
+    <itunes:category text="Business" />
     <item>
       <title>Week of January 19, 2026</title>
       <description>Weekly digest with 2 sources.</description>
