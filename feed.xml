@@ -8,6 +8,17 @@
     <itunes:author>Insight Podcast</itunes:author>
     <itunes:summary>Weekly digest of curated articles and videos</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <itunes:owner>
+      <itunes:email>podcast@example.com</itunes:email>
+      <itunes:name>Insight Podcast</itunes:name>
+    </itunes:owner>
+    <image>
+      <url>https://midtownninja.github.io/insight-podcast/artwork.png</url>
+      <title>Insight Podcast</title>
+      <link>https://midtownninja.github.io/insight-podcast</link>
+    </image>
+    <itunes:image href="https://midtownninja.github.io/insight-podcast/artwork.png" />
     <itunes:category text="Technology" />
     <item>
       <title>Week of January 19, 2026</title>
