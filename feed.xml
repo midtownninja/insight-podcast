@@ -21,14 +21,14 @@
     <itunes:image href="https://midtownninja.github.io/insight-podcast/artwork.png" />
     <itunes:category text="Business" />
     <item>
-      <title>Week of January 19, 2026</title>
-      <description>Weekly digest with 2 sources.</description>
-      <pubDate>Mon, 19 Jan 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">insight-episode-3</guid>
-      <enclosure url="https://insight-podcast-vishy.s3.amazonaws.com/episodes/2026-01-19/episode-1.mp3" length="27394939" type="audio/mpeg" />
-      <itunes:duration>13:45</itunes:duration>
+      <title>Week of 2026-01-26</title>
+      <description>Digest episode covering 4 sources</description>
+      <pubDate>Thu, 29 Jan 2026 19:26:07 +0000</pubDate>
+      <guid isPermaLink="false">insight-podcast-6</guid>
+      <enclosure url="/episodes/2026-01-26/episode.mp3" length="34647500" type="audio/mpeg" />
+      <itunes:duration>36:05</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:summary>Weekly digest with 2 sources.</itunes:summary>
+      <itunes:summary>Digest episode covering 4 sources</itunes:summary>
     </item>
   </channel>
 </rss>
