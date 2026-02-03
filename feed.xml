@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>Insight Podcast</title>
+    <description>Weekly digest of curated articles and videos</description>
+    <language>en-us</language>
+    <link>https://midtownninja.github.io/insight-podcast</link>
+    <itunes:author>Insight Podcast</itunes:author>
+    <itunes:summary>Weekly digest of curated articles and videos</itunes:summary>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <itunes:owner>
+      <itunes:email>vishy.v@gmail.com</itunes:email>
+      <itunes:name>Insight Podcast</itunes:name>
+    </itunes:owner>
+    <image>
+      <url>https://midtownninja.github.io/insight-podcast/artwork.png</url>
+      <title>Insight Podcast</title>
+      <link>https://midtownninja.github.io/insight-podcast</link>
+    </image>
+    <itunes:image href="https://midtownninja.github.io/insight-podcast/artwork.png" />
+    <itunes:category text="Business" />
+    <item>
+      <title>AI Agents Formed A Secret Social Network</title>
+      <description>Weekly digest with 5 sources.</description>
+      <pubDate>Mon, 02 Feb 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">insight-episode-12</guid>
+      <enclosure url="https://insight-podcast-vishy.s3.amazonaws.com/episodes/2026-02-02/episode-12.mp3" length="31814549" type="audio/mpeg" />
+      <itunes:duration>33:08</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Weekly digest with 5 sources.</itunes:summary>
+    </item>
+  </channel>
+</rss>
